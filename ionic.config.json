@@ -1,0 +1,7 @@
+{
+  "name": "21694-CA1-maps",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
